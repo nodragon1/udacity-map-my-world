@@ -34,7 +34,7 @@ $ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
 
 ## Result
-Now 3packages are operating, then you can move the robot with teleop package. The more you move around, the more information you get about the map. Below is the example.
+Now 3packages are operating, then you can move the robot with teleop package. The more you move around, the more information you get about the map. Below is the example.  
 <img src="images/bandicam2024-05-2419-12-40-038-ezgif.com-video-to-gif-converter.gif" style="width:600px;"/>   
 
 As a result, you can get the whole map of the world.
